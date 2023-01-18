@@ -51,12 +51,12 @@ li{
     margin: 0.5em;
 }
 
-.imgPrincipal{
+#imgPrincipal{
     margin: 0.5em 0;
 
 }
 
-.imgPrincipal img{
+#imgPrincipal img{
     height: 100%;
 
 }
